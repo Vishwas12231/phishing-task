@@ -1,0 +1,71 @@
+# Cybersecurity Internship – Interview Questions & Answers
+
+## 1. What is phishing?
+
+Phishing is a type of cyber attack where attackers trick users into revealing sensitive information such as passwords, credit card details, or personal data by pretending to be a trusted entity.
+
+---
+
+## 2. How to identify a phishing email?
+
+You can identify a phishing email by checking:
+
+* Suspicious or fake sender email address
+* Urgent or threatening language
+* Unknown or mismatched links
+* Spelling and grammar mistakes
+* Generic greetings like “Dear Customer”
+
+---
+
+## 3. What is email spoofing?
+
+Email spoofing is a technique where attackers fake the sender’s email address to make it appear as if the email is coming from a trusted source.
+
+---
+
+## 4. Why are phishing emails dangerous?
+
+Phishing emails are dangerous because they can:
+
+* Steal login credentials
+* Access bank accounts
+* Install malware
+* Cause financial and data loss
+
+---
+
+## 5. How can you verify the sender’s authenticity?
+
+* Check the email domain carefully
+* Hover over links before clicking
+* Contact the company through official website
+* Analyze email headers
+
+---
+
+## 6. What tools can analyze email headers?
+
+* MXToolbox
+* Google Admin Toolbox
+* Mailheader Analyzer
+
+---
+
+## 7. What actions should be taken on suspected phishing emails?
+
+* Do not click any links
+* Do not download attachments
+* Report the email as phishing
+* Delete the email immediately
+
+---
+
+## 8. How do attackers use social engineering in phishing?
+
+Attackers use psychological tricks like:
+
+* Creating urgency (e.g., “Your account will be blocked”)
+* Fear (security alerts)
+* Trust (pretending to be banks or companies)
+  to manipulate users into taking quick action.
